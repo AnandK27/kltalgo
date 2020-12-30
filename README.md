@@ -1,2 +1,2 @@
 # kltalgo
-[Code](./basic_algo.py)
+[Code](./KLT/basic_algo.py)
